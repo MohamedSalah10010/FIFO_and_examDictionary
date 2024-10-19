@@ -59,10 +59,8 @@ namespace FIFO
             Console.WriteLine(s.pop());
             Console.WriteLine(s.pop());
             Console.WriteLine(s.pop());
-            
             s.push(1122);
             s.push(450);
-           // s.push(20022);
             Console.WriteLine(s.pop());
             Console.WriteLine(s.pop());
             Console.WriteLine(s.pop());
